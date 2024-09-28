@@ -37,3 +37,4 @@ section .data
 segment .bss
 
     sum resb 1
+    
